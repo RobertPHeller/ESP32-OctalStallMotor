@@ -1,0 +1,3 @@
+[submodule "OpenMRNIDF"]
+	path = OpenMRNIDF
+	url = git@github.com:atanisoft/OpenMRNIDF.git
